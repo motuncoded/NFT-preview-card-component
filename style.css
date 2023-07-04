@@ -119,8 +119,4 @@ h1:hover,
 .text {
 	color: var(--white);
 }
-@media screen and (max-width: 500px) {
-	main {
-		width: 320px;
-	}
-}
+
